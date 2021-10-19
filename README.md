@@ -11,6 +11,15 @@ Raw was sourced from the following locations: files scraped from Wikipedia, Kagg
 
 ## **TOOLS**
 
+### Software
+
+* Python 3.9.3
+  * Anaconda Navigator 2.0.3
+  * Conda 4.10.3   
+* Jupyter Notebook 6.3.0 
+* PostgreSQL 14.0
+* pgAdmin 4
+
 
 ## RESULTS
 
