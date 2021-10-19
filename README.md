@@ -23,7 +23,7 @@ Raw was sourced from the following locations: files scraped from Wikipedia, Kagg
 
 ## RESULTS
 
-Below are screenshots of the files being loaded in to the database. These can also be found in the "Resources" folder.
+Below are screenshots of the files that were loaded into the database. These can also be found in the "Resources" folder.
 
 ### **Movies**
 ![alt_text](https://github.com/farwaali08/movies-ETL/blob/f1d0fecffc9c134922e91a01d073ffb8e4b818c7/Resources/movies_query.png)
